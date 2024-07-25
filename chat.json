@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "add a background color of black",
+        "message_id": "guest25072024072446",
+        "timestamp": "25072024072447",
+        "component_file_name": "purple_header_component_1721892221",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "<button>Hello World</button>",
         "message_id": "guest25072024072403",
